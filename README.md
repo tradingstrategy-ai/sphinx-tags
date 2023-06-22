@@ -1,6 +1,7 @@
 # sphinx-tags [![sphinx-tags](https://circleci.com/gh/melissawm/sphinx-tags.svg?style=svg)](https://circleci.com/gh/melissawm/sphinx-tags)
 
-A tiny Sphinx extension that implements blog-style tags for documentation.
+- This repo is a fork. [Here](https://github.com/melissawm/sphinx-tags) is the original repo for reference.
+- A tiny Sphinx extension that implements blog-style tags for documentation.
 
 **🗣 If you use this extension in your project, please drop us a note [in this discussion post](https://github.com/melissawm/sphinx-tags/discussions/32)**
 
