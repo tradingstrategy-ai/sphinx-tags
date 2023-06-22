@@ -5,6 +5,13 @@
 
 **🗣 If you use this extension in your project, please drop us a note [in this discussion post](https://github.com/melissawm/sphinx-tags/discussions/32)**
 
+## Improvements
+
+This fork adds on to the original repo by doing the following:
+
+- Allow direct embedding of tags in **.ipynb** files. This can be done by [adding an reST cell](https://nbsphinx.readthedocs.io/en/0.9.1/raw-cells.html#reST) to a jupyter notebook and tagging in usual way i.e. `.. tags:: tag1, tag2`
+
+
 ## Installation
 
 After activating a virtual environment manager such as `venv` or `conda`, use
